@@ -1,4 +1,5 @@
 function dataout=loadDelsys20200824(file)
+%Testing this code for public access
 % dataout=loadDelsys20200824(file)
 % inputs  - file, directory and file name to import
 % outputs - dataout, structure containing data from a Delsys system
